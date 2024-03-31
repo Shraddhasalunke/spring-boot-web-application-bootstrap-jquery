@@ -1,11 +1,6 @@
 # spring-boot-web-application-bootstrap-jquery
 <!---
 Current Directory : /in28Minutes/git/spring-boot-examples/spring-boot-web-application-bootstrap-jquery
--->
-
-### More Courses and Videos From in28Minutes
-
-- https://github.com/in28minutes/learn
 
 ## Example Code
 
